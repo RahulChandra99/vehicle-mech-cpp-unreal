@@ -22,3 +22,5 @@ Carbase
 - [X] Test Environment Map
 - [ ] Speedometer and HUD
 - [ ] Camera Fix
+- [ ] Multiple camera views
+- [ ] MotorBike Test without animation
